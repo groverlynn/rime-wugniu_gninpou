@@ -159,7 +159,7 @@ luna_pinyin:
   prefix: '`'             # 引導鍵「`」
   suffix: "'"             # 結束鍵「'」
   tips: 〔拼音倒查〕         # 輸入前提示〔拼音倒查〕
-  closing_tips: 〔吳語（鄞州）〕
+  closing_tips: 〔吳語（鄞東）〕
   preedit_format:
     - xform/([nl])v/$1ü/
     - xform/([nl])ue/$1üe/
@@ -173,7 +173,7 @@ stroke:
   prefix: '`'             # 引導鍵「`」
   suffix: "'"             # 結束鍵「'」
   tips: 〔筆畫倒查〕         # 輸入前提示〔筆畫倒查〕
-  closing_tips: 〔吳語（鄞州）〕
+  closing_tips: 〔吳語（鄞東）〕
   preedit_format:
     - xlit/hspnz/一丨丿丶乙/
 
