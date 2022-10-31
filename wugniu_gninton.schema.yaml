@@ -159,13 +159,8 @@ luna_pinyin:
   enable_user_dict: false # 關閉用戶詞典
   prefix: '`'             # 引導鍵「`」
   suffix: "'"             # 結束鍵「'」
-<<<<<<< HEAD:wugniu_gninton.schema.yaml
-  tips: 〔拼音倒查〕         # 輸入前提示〔拼音倒查〕
-  closing_tips: 〔吳語（鄞東）〕
-=======
   tips: 〔反查〕          # 輸入前提示〔反查〕
   closing_tips: 〔吳語（鄞州）〕
->>>>>>> parent of 8719624 (方案用語去普):wugniu_gnincieu.schema.yaml
   preedit_format:
     - xform/([nl])v/$1ü/
     - xform/([nl])ue/$1üe/
@@ -178,13 +173,8 @@ stroke:
   enable_user_dict: false # 關閉用戶詞典
   prefix: '`'             # 引導鍵「`」
   suffix: "'"             # 結束鍵「'」
-<<<<<<< HEAD:wugniu_gninton.schema.yaml
-  tips: 〔筆畫倒查〕         # 輸入前提示〔筆畫倒查〕
-  closing_tips: 〔吳語（鄞東）〕
-=======
   tips: 〔反查〕          # 輸入前提示〔反查〕
   closing_tips: 〔吳語（鄞州）〕
->>>>>>> parent of 8719624 (方案用語去普):wugniu_gnincieu.schema.yaml
   preedit_format:
     - xlit/hspnz/一丨丿丶乙/
 
