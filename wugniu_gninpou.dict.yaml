@@ -18,7 +18,7 @@
 
 ---
 name: wugniu_gninpou
-version: "2023.07.10"
+version: "2023.10.25"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -4370,7 +4370,6 @@ import_tables:
 㧦	shiu
 昫	shiu
 煦	shiu
-揎	shiu
 酗	shiu
 絢	shiu
 𩋢	shiu
@@ -7432,6 +7431,7 @@ import_tables:
 覧	lae
 纜	lae
 攬	lae
+𥗽	lae
 蘫	lae
 幱	lae
 燣	lae
@@ -8009,6 +8009,7 @@ import_tables:
 宣	soe
 𩤡	soe
 愃	soe
+揎	soe
 選	soe
 𥶷	soe
 陝	soe
@@ -19872,6 +19873,7 @@ import_tables:
 览	lae
 缆	lae
 揽	lae
+𬒗	lae
 榄	lae
 懒	lae
 滥	lae
@@ -23881,8 +23883,8 @@ import_tables:
 韭菜	cieu tshe
 韭菜芽	cieu tshe ngo	55
 酒盅	cieu tson
-糾作	cieu tsoq	55
-糾作煞	cieu tsoq saq
+周捉	cieu tsoq	55
+周捉煞	cieu tsoq saq
 酒足飯飽	cieu tsoq vae pau
 九彎涼牀	cieu uae lian zaon
 晝飯	cieu vae	578
@@ -23961,7 +23963,7 @@ import_tables:
 金窠銀窠勿如屋裏草窠	cin khou gnin khou vaq zyu oq li tshau khou
 金窠銀窠弗如屋裏草窠	cin khou gnin khou vaq zyu oq li tshau khou	1
 金柑	cin ki-ke
-井乾刷淨	cin ki-ke syuq zhin
+鏡乾雪淨	cin ki-ke syuq zhin
 整個	cin kou
 真個	cin kou
 整梗	cin kuan
@@ -25361,6 +25363,7 @@ import_tables:
 藏青	dzaon chin
 撞頭	dzaon deu
 幢籃	dzaon lae	55
+撞落風	dzaon loq fon
 撞傷	dzaon saon
 幢箱櫥	dzaon shian dzyu	55
 宅基地	dzaq ci di
@@ -31855,6 +31858,7 @@ import_tables:
 媒人	mei gnin
 美人肩	mei gnin ci	55
 美人蕉	mei gnin ciau
+謎殼	mei gnioq
 每日	mei gniq	25000
 煤灰	mei huei
 梅花	mei huo
@@ -31868,6 +31872,7 @@ import_tables:
 煤球爐子	mei jieu lu tsy	55
 煤球店	mei jieu ti	55
 每梗	mei kan
+謎殼	mei khoq
 黴乾菜	mei ki-ke tshe
 黴乾菜㸆肉	mei ki-ke tshe khau gnioq
 黴乾菜烤肉	mei ki-ke tshe khau gnioq
@@ -34750,7 +34755,7 @@ import_tables:
 煞人	saq gnin	55
 煞格	saq kaq	55
 澀格格	saq kaq kaq	55
-煞克	saq khaq
+嗇刻	saq khaq
 澀肯頭	saq khen deu	55
 澀肯肯	saq khen khen	55
 澀口	saq kheu	55
@@ -34850,7 +34855,7 @@ import_tables:
 賽過	sei khou
 賽過	sei kou
 碎票	sei phiau
-碎碎塞塞	sei sei saq saq	55
+糝糝塞塞	sei sei saq saq	55
 雖則	sei tsaq
 碎食	sei zhiq	55
 生髮油	sen faq yeu	55
@@ -34864,7 +34869,6 @@ import_tables:
 生三奔	sen sae pen
 生三寫	sen sae shia
 孫新婦	sen shin vu	55
-生四	sen sy	418
 生死	sen sy
 孫子	sen tsy
 孫悟空	sen wu khon
@@ -34875,7 +34879,6 @@ import_tables:
 瘦刮刮	seu kuaq kuaq	55
 瘦骨材	seu kuaq ze	55
 瘦勒嘸采去	seu laq mh tshe chi
-瘦削削	seu shiaq shiaq	55
 瘦㽺㽺	seu shiq shiq	55
 鮮白蟹	shi baq ha	55
 鮮白鰳魚	shi baq lei ng	55
@@ -34924,6 +34927,7 @@ import_tables:
 喜果	shi kou
 戲館	shi kun	55
 西瓜	shi kuo
+西瓜皮	shi kuo bi
 西瓜𢪂藤	shi kuo da den
 西瓜頭蟲	shi kuo deu dzon	55
 西瓜蟲	shi kuo dzon	55
@@ -34998,7 +35002,6 @@ import_tables:
 死樣怪氣	shi yan kua chi	55
 死樣刮氣	shi yan kuaq chi
 細鹽	shi yi	55
-手抈抈	shi yuq yuq
 寫白字眼	shia baq zy ngae	55
 傻氣氣	shia chi chi
 㕐酒	shia cieu	55
@@ -35073,7 +35076,6 @@ import_tables:
 向拋天	shian phau thi	578
 享先	shian shi	55
 享先湯果	shian shi thaon kou	55
-響箱	shian shian	55
 相相看	shian shian khe
 商商量量	shian shian lian lian	55
 相信	shian shin
@@ -35210,8 +35212,8 @@ import_tables:
 小郎菜	shiau laon tshe	55
 小郎菜炒年糕	shiau laon tshe tshau gni kau
 肖老虎	shiau lau fu
+小老𡢿	shiau lau gnion	55
 小老𡢿生	shiau lau gnion san
-小老嫌	shiau lau i	55
 小老三	shiau lau sae
 小老鼠	shiau lau tsy
 肖老鼠	shiau lau tsy
@@ -35250,6 +35252,8 @@ import_tables:
 小八癩𪓿開會了	shiau paq la sy khe wei lei
 小八癩𪓿開會𡀂	shiau paq la sy khe wei lei
 小八癩子	shiau paq la tsy	55
+小八癩子開會了	shiau paq la tsy khe wei lei
+小八癩子開會𡀂	shiau paq la tsy khe wei lei
 小包車	shiau pau tsho	55
 小輩	shiau pei
 小兵張嘎	shiau pin cian ga
@@ -35388,7 +35392,7 @@ import_tables:
 手㬹子頭	shieu tsan tsy deu	55
 手叉仔	shieu tsho tsy	55
 手銃	shieu tshon
-收作	shieu tsoq	55
+收捉	shieu tsoq	55
 手指甲	shieu tsy khaq	55
 手指末頭	shieu tsy maq deu	55
 手指末頭縫蕩	shieu tsy maq deu von daon	55
@@ -35410,7 +35414,6 @@ import_tables:
 身條	shin diau
 身條好	shin diau hau
 身段	shin doe
-心度	shin du
 心肚	shin du	55
 新發財主	shin faq dze tsyu	55
 新風鰻鯗	shin fon mun shian	55
@@ -35505,6 +35508,7 @@ import_tables:
 歇一歇	shiq iq shiq	55
 歇過	shiq kou	55
 吸壁走	shiq piq tseu
+些西	shiq shi
 啥西	shiq shi	578
 識相	shiq shian
 歇手	shiq shieu
@@ -35513,7 +35517,6 @@ import_tables:
 吸吸嚯嚯	shiq shiq hoq hoq	55
 息息介	shiq shiq ka	55
 吸血蟲	shiq shiuq dzon
-溼溚溚	shiq taq taq
 吸鐵石	shiq thiq zaq
 㽺倲倲	shiq ton ton	55
 溼漬漬	shiq tsaq tsaq	55
@@ -35547,7 +35550,6 @@ import_tables:
 砂皮	so bi
 稍微	so bi	55
 沙䥛	so ci	55
-沙尖	so ci	55
 賒賬	so cian
 沙袋	so de
 沙頭	so deu	55
@@ -35635,6 +35637,7 @@ import_tables:
 痧藥	so yaq	55
 啥有	so yeu	55
 啥事體啦	so zy thi la
+啥辰光	so zyun kuaon	55
 算盤	soe bun
 算盤子	soe bun tsy
 算賬	soe cian
@@ -35749,7 +35752,7 @@ import_tables:
 叔伯兄弟	soq paq shion di	55
 啥西	soq shi	50000
 啥星	soq shin	55
-啥些	soq shiq	50000
+啥些	soq shiq	55
 啥西	soq shiq	50000
 嗍螄螺	soq sy lou
 啥搭界	soq taq ka	418
@@ -35765,6 +35768,8 @@ import_tables:
 啥烏退	soq u thei
 啥烏采	soq u tshe
 啥烏處	soq u tshyu
+啥犯着	soq vae dzoq	55
+啥犯着	soq vae zoq	55
 啥會	soq wei	55
 宿夜	soq ya	418
 啥有	soq yeu	55
@@ -35905,7 +35910,6 @@ import_tables:
 四五	sy ng
 四眼碶	sy ngae chi
 四八	sy paq
-司必林	sy piq lin
 司必靈	sy piq lin	55
 司必靈鎖	sy piq lin sou	55
 四三	sy sae
@@ -41172,7 +41176,6 @@ import_tables:
 士林藍	zy lin lae	55
 逝落	zy loq	55
 市面	zy mi
-自鳴鍾	zy min tson	55
 自鳴鐘	zy min tson
 鰣魚	zy ng
 時眼	zy ngae	55
